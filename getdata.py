@@ -1,11 +1,13 @@
+#!/usr/bin/python3
+
 import http.client
 import xml.dom.minidom
 
-key = ''
+key = 's67wt459muuhe5c9mus424v3'
 
 conn = http.client.HTTPSConnection("api.sportradar.us")
 
-conn.request("GET", "/formula1/trial/v2/en/sport_events/sr:stage:426678/summary.xml?api_key=%s" % (key))
+conn.request("GET", "/formula1/trial/v2/en/sport_events/sr:stage:432275/summary.xml?api_key=%s" % (key))
 
 res = conn.getresponse()
 data = res.read()
@@ -16,7 +18,7 @@ xml = xml.dom.minidom.parseString(ugly)
 
 prettyxml = xml.toprettyxml()
 
-f = open('data.xml', 'w')
+f = open('abudhabi2019.xml', 'w')
 
 f.writelines(prettyxml)
 
