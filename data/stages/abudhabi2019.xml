@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<summary generated_at="2019-12-06T23:13:34+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/summary.xsd">
+<summary generated_at="2019-12-19T02:18:39+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/summary.xsd">
 	<stage description="Abu Dhabi Grand Prix 2019" id="sr:stage:432275" scheduled="2019-11-29T09:00:00+00:00" scheduled_end="2019-12-01T15:10:00+00:00" single_event="false" status="Finished" type="event">
 		<venue city="Abu Dhabi" coordinates="24.469885,54.605484" country="United Arab Emirates" country_code="ARE" curves_left="12" curves_right="9" debut="2009" id="sr:venue:1525" laps="55" length="5554" name="Yas Marina Circuit" url_official="https://www.yasmarinacircuit.com/en"/>
 		<parents>
@@ -94,7 +94,7 @@
 			<team country_code="GBR" gender="male" id="sr:competitor:4514" name="Mclaren" nationality="Great Britain">
 				<result points="5" position="5"/>
 			</team>
-			<team country_code="ITA" gender="male" id="sr:competitor:5771" name="Scuderia Toro Rosso" nationality="Italy">
+			<team country_code="ITA" gender="male" id="sr:competitor:5771" name="Alphatauri" nationality="Italy">
 				<result points="2" position="6"/>
 			</team>
 			<team country_code="GBR" gender="male" id="sr:competitor:4512" name="Renault" nationality="Great Britain">

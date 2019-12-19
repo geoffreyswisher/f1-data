@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<summary generated_at="2019-12-19T02:42:27+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/summary.xsd">
+	<stage description="Abu Dhabi Grand Prix 2019" id="sr:stage:432275" scheduled="2019-11-29T09:00:00+00:00" scheduled_end="2019-12-01T15:10:00+00:00" single_event="false" status="Finished" type="event">
+		<venue city="Abu Dhabi" coordinates="24.469885,54.605484" country="United Arab Emirates" country_code="ARE" curves_left="12" curves_right="9" debut="2009" id="sr:venue:1525" laps="55" length="5554" name="Yas Marina Circuit" url_official="https://www.yasmarinacircuit.com/en"/>
+		<parents>
+			<stage description="Formula 1 2019" id="sr:stage:426678" scheduled="2019-03-15T01:00:00+00:00" scheduled_end="2019-12-01T18:10:00+00:00" single_event="false" type="season">
+				<parents>
+					<stage description="Formula 1" id="sr:stage:7668" single_event="false" type="sport"/>
+				</parents>
+			</stage>
+		</parents>
+		<stages>
+			<stage description="Practice 1" id="sr:stage:432277" scheduled="2019-11-29T09:00:00+00:00" scheduled_end="2019-11-29T10:30:00+00:00" single_event="false" status="Finished" type="practice"/>
+			<stage description="Practice 2" id="sr:stage:432279" scheduled="2019-11-29T13:00:00+00:00" scheduled_end="2019-11-29T14:30:00+00:00" single_event="false" status="Finished" type="practice"/>
+			<stage description="Practice 3" id="sr:stage:432281" scheduled="2019-11-30T10:00:00+00:00" scheduled_end="2019-11-30T11:00:00+00:00" single_event="false" status="Finished" type="practice"/>
+			<stage air_temperature="26" description="Qualification" humidity="57" id="sr:stage:432283" scheduled="2019-11-30T13:00:00+00:00" scheduled_end="2019-11-30T14:00:00+00:00" single_event="false" status="Finished" track_temperature="32" type="qualifying" weather="Lightly clouded"/>
+			<stage air_temperature="27" description="Race" humidity="49" id="sr:stage:432291" laps="55" laps_completed="55" pit_open="true" scheduled="2019-12-01T13:10:00+00:00" scheduled_end="2019-12-01T15:10:00+00:00" single_event="false" status="Finished" substatus="All laps completed" track_temperature="30" type="race" weather="Lightly clouded"/>
+		</stages>
+		<competitors>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:7135" name="Hamilton, Lewis" nationality="Great Britain">
+				<result points="26" position="1"/>
+			</competitor>
+			<competitor country_code="NLD" gender="male" id="sr:competitor:178318" name="Verstappen, Max" nationality="Netherlands">
+				<result points="18" position="2"/>
+			</competitor>
+			<competitor country_code="MCO" gender="male" id="sr:competitor:269471" name="Leclerc, Charles" nationality="Monaco">
+				<result points="15" position="3"/>
+			</competitor>
+			<competitor country_code="FIN" gender="male" id="sr:competitor:41600" name="Bottas, Valtteri" nationality="Finland">
+				<result points="12" position="4"/>
+			</competitor>
+			<competitor country_code="DEU" gender="male" id="sr:competitor:7610" name="Vettel, Sebastian" nationality="Germany">
+				<result points="10" position="5"/>
+			</competitor>
+			<competitor country_code="THA" gender="male" id="sr:competitor:522994" name="Albon, Alexander" nationality="Thailand">
+				<result points="8" position="6"/>
+			</competitor>
+			<competitor country_code="MEX" gender="male" id="sr:competitor:46337" name="Perez, Sergio" nationality="Mexico">
+				<result points="6" position="7"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:495898" name="Norris, Lando" nationality="Great Britain">
+				<result points="4" position="8"/>
+			</competitor>
+			<competitor country_code="RUS" gender="male" id="sr:competitor:131762" name="Kvyat, Daniil" nationality="Russia">
+				<result points="2" position="9"/>
+			</competitor>
+			<competitor country_code="ESP" gender="male" id="sr:competitor:189029" name="Sainz Jr, Carlos" nationality="Spain">
+				<result points="1" position="10"/>
+			</competitor>
+			<competitor country_code="AUS" gender="male" id="sr:competitor:41603" name="Ricciardo, Daniel" nationality="Australia">
+				<result position="11"/>
+			</competitor>
+			<competitor country_code="DEU" gender="male" id="sr:competitor:39412" name="Hulkenberg, Nico" nationality="Germany">
+				<result position="12"/>
+			</competitor>
+			<competitor country_code="FIN" gender="male" id="sr:competitor:4538" name="Raikkonen, Kimi" nationality="Finland">
+				<result position="13"/>
+			</competitor>
+			<competitor country_code="DNK" gender="male" id="sr:competitor:135592" name="Magnussen, Kevin" nationality="Denmark">
+				<result position="14"/>
+			</competitor>
+			<competitor country_code="FRA" gender="male" id="sr:competitor:37294" name="Grosjean, Romain" nationality="France">
+				<result position="15"/>
+			</competitor>
+			<competitor country_code="ITA" gender="male" id="sr:competitor:222584" name="Giovinazzi, Antonio" nationality="Italy">
+				<result position="16"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:391432" name="Russell, George" nationality="Great Britain">
+				<result position="17"/>
+			</competitor>
+			<competitor country_code="FRA" gender="male" id="sr:competitor:381362" name="Gasly, Pierre" nationality="France">
+				<result position="18"/>
+			</competitor>
+			<competitor country_code="POL" gender="male" id="sr:competitor:6152" name="Kubica, Robert" nationality="Poland">
+				<result position="19"/>
+			</competitor>
+			<competitor country_code="CAN" gender="male" id="sr:competitor:302866" name="Stroll, Lance" nationality="Canada">
+				<result position="20"/>
+			</competitor>
+		</competitors>
+		<teams>
+			<team country_code="GBR" gender="male" id="sr:competitor:41127" name="Mercedes" nationality="Great Britain">
+				<result points="38" position="1"/>
+			</team>
+			<team country_code="GBR" gender="male" id="sr:competitor:4978" name="Red Bull Racing" nationality="Great Britain">
+				<result points="26" position="2"/>
+			</team>
+			<team country_code="ITA" gender="male" id="sr:competitor:4510" name="Ferrari" nationality="Italy">
+				<result points="25" position="3"/>
+			</team>
+			<team country_code="GBR" gender="male" id="sr:competitor:496090" name="Racing Point" nationality="Great Britain">
+				<result points="6" position="4"/>
+			</team>
+			<team country_code="GBR" gender="male" id="sr:competitor:4514" name="Mclaren" nationality="Great Britain">
+				<result points="5" position="5"/>
+			</team>
+			<team country_code="ITA" gender="male" id="sr:competitor:5771" name="Alphatauri" nationality="Italy">
+				<result points="2" position="6"/>
+			</team>
+			<team country_code="GBR" gender="male" id="sr:competitor:4512" name="Renault" nationality="Great Britain">
+				<result position="7"/>
+			</team>
+			<team country_code="CHE" gender="male" id="sr:competitor:4515" name="Alfa Romeo Racing" nationality="Switzerland">
+				<result position="8"/>
+			</team>
+			<team country_code="USA" gender="male" id="sr:competitor:242902" name="Haas" nationality="USA">
+				<result position="9"/>
+			</team>
+			<team country_code="GBR" gender="male" id="sr:competitor:4511" name="Williams" nationality="Great Britain">
+				<result position="10"/>
+			</team>
+		</teams>
+	</stage>
+</summary>

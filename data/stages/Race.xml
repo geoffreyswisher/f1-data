@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<summary generated_at="2019-12-19T02:49:12+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/summary.xsd">
+	<stage air_temperature="27" description="Race" humidity="49" id="sr:stage:432291" laps="55" laps_completed="55" pit_open="true" scheduled="2019-12-01T13:10:00+00:00" scheduled_end="2019-12-01T15:10:00+00:00" single_event="false" status="Finished" substatus="All laps completed" track_temperature="30" type="race" weather="Lightly clouded">
+		<parents>
+			<stage description="Abu Dhabi Grand Prix 2019" id="sr:stage:432275" scheduled="2019-11-29T09:00:00+00:00" scheduled_end="2019-12-01T15:10:00+00:00" single_event="false" status="Finished" type="event">
+				<venue city="Abu Dhabi" coordinates="24.469885,54.605484" country="United Arab Emirates" country_code="ARE" curves_left="12" curves_right="9" debut="2009" id="sr:venue:1525" laps="55" length="5554" name="Yas Marina Circuit" url_official="https://www.yasmarinacircuit.com/en"/>
+				<parents>
+					<stage description="Formula 1 2019" id="sr:stage:426678" scheduled="2019-03-15T01:00:00+00:00" scheduled_end="2019-12-01T18:10:00+00:00" single_event="false" type="season">
+						<parents>
+							<stage description="Formula 1" id="sr:stage:7668" single_event="false" type="sport"/>
+						</parents>
+					</stage>
+				</parents>
+			</stage>
+		</parents>
+		<stages>
+			<stage description="Lap 1" id="sr:stage:432293" single_event="false" type="lap"/>
+			<stage description="Lap 2" id="sr:stage:432295" single_event="false" type="lap"/>
+			<stage description="Lap 3" id="sr:stage:432297" single_event="false" type="lap"/>
+			<stage description="Lap 4" id="sr:stage:432299" single_event="false" type="lap"/>
+			<stage description="Lap 5" id="sr:stage:432301" single_event="false" type="lap"/>
+			<stage description="Lap 6" id="sr:stage:432303" single_event="false" type="lap"/>
+			<stage description="Lap 7" id="sr:stage:432305" single_event="false" type="lap"/>
+			<stage description="Lap 8" id="sr:stage:432307" single_event="false" type="lap"/>
+			<stage description="Lap 9" id="sr:stage:432309" single_event="false" type="lap"/>
+			<stage description="Lap 10" id="sr:stage:432311" single_event="false" type="lap"/>
+			<stage description="Lap 11" id="sr:stage:432313" single_event="false" type="lap"/>
+			<stage description="Lap 12" id="sr:stage:432315" single_event="false" type="lap"/>
+			<stage description="Lap 13" id="sr:stage:432317" single_event="false" type="lap"/>
+			<stage description="Lap 14" id="sr:stage:432319" single_event="false" type="lap"/>
+			<stage description="Lap 15" id="sr:stage:432321" single_event="false" type="lap"/>
+			<stage description="Lap 16" id="sr:stage:432323" single_event="false" type="lap"/>
+			<stage description="Lap 17" id="sr:stage:432325" single_event="false" type="lap"/>
+			<stage description="Lap 18" id="sr:stage:432327" single_event="false" type="lap"/>
+			<stage description="Lap 19" id="sr:stage:432329" single_event="false" type="lap"/>
+			<stage description="Lap 20" id="sr:stage:432331" single_event="false" type="lap"/>
+			<stage description="Lap 21" id="sr:stage:432333" single_event="false" type="lap"/>
+			<stage description="Lap 22" id="sr:stage:432335" single_event="false" type="lap"/>
+			<stage description="Lap 23" id="sr:stage:432337" single_event="false" type="lap"/>
+			<stage description="Lap 24" id="sr:stage:432339" single_event="false" type="lap"/>
+			<stage description="Lap 25" id="sr:stage:432341" single_event="false" type="lap"/>
+			<stage description="Lap 26" id="sr:stage:432343" single_event="false" type="lap"/>
+			<stage description="Lap 27" id="sr:stage:432345" single_event="false" type="lap"/>
+			<stage description="Lap 28" id="sr:stage:432347" single_event="false" type="lap"/>
+			<stage description="Lap 29" id="sr:stage:432349" single_event="false" type="lap"/>
+			<stage description="Lap 30" id="sr:stage:432351" single_event="false" type="lap"/>
+			<stage description="Lap 31" id="sr:stage:432353" single_event="false" type="lap"/>
+			<stage description="Lap 32" id="sr:stage:432355" single_event="false" type="lap"/>
+			<stage description="Lap 33" id="sr:stage:432357" single_event="false" type="lap"/>
+			<stage description="Lap 34" id="sr:stage:432359" single_event="false" type="lap"/>
+			<stage description="Lap 35" id="sr:stage:432361" single_event="false" type="lap"/>
+			<stage description="Lap 36" id="sr:stage:432363" single_event="false" type="lap"/>
+			<stage description="Lap 37" id="sr:stage:432365" single_event="false" type="lap"/>
+			<stage description="Lap 38" id="sr:stage:432367" single_event="false" type="lap"/>
+			<stage description="Lap 39" id="sr:stage:432369" single_event="false" type="lap"/>
+			<stage description="Lap 40" id="sr:stage:432371" single_event="false" type="lap"/>
+			<stage description="Lap 41" id="sr:stage:432373" single_event="false" type="lap"/>
+			<stage description="Lap 42" id="sr:stage:432375" single_event="false" type="lap"/>
+			<stage description="Lap 43" id="sr:stage:432377" single_event="false" type="lap"/>
+			<stage description="Lap 44" id="sr:stage:432379" single_event="false" type="lap"/>
+			<stage description="Lap 45" id="sr:stage:432381" single_event="false" type="lap"/>
+			<stage description="Lap 46" id="sr:stage:432383" single_event="false" type="lap"/>
+			<stage description="Lap 47" id="sr:stage:432385" single_event="false" type="lap"/>
+			<stage description="Lap 48" id="sr:stage:432387" single_event="false" type="lap"/>
+			<stage description="Lap 49" id="sr:stage:432389" single_event="false" type="lap"/>
+			<stage description="Lap 50" id="sr:stage:432391" single_event="false" type="lap"/>
+			<stage description="Lap 51" id="sr:stage:432393" single_event="false" type="lap"/>
+			<stage description="Lap 52" id="sr:stage:432395" single_event="false" type="lap"/>
+			<stage description="Lap 53" id="sr:stage:432397" single_event="false" type="lap"/>
+			<stage description="Lap 54" id="sr:stage:432399" single_event="false" type="lap"/>
+			<stage description="Lap 55" id="sr:stage:432401" single_event="false" type="lap"/>
+		</stages>
+		<competitors>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:7135" name="Hamilton, Lewis" nationality="Great Britain">
+				<result fastest_lap_time="1:39.283" grid="1" laps="55" pitstop_count="1" points="26" position="1" status="Finished" time="1:34:05.715"/>
+			</competitor>
+			<competitor country_code="NLD" gender="male" id="sr:competitor:178318" name="Verstappen, Max" nationality="Netherlands">
+				<result fastest_lap_time="1:41.119" grid="2" laps="55" pitstop_count="1" points="18" position="2" status="Finished" time="+16.772"/>
+			</competitor>
+			<competitor country_code="MCO" gender="male" id="sr:competitor:269471" name="Leclerc, Charles" nationality="Monaco">
+				<result fastest_lap_time="1:40.442" grid="3" laps="55" pitstop_count="2" points="15" position="3" status="Finished" time="+43.435"/>
+			</competitor>
+			<competitor country_code="FIN" gender="male" id="sr:competitor:41600" name="Bottas, Valtteri" nationality="Finland">
+				<result fastest_lap_time="1:39.715" grid="20" laps="55" pitstop_count="1" points="12" position="4" status="Finished" time="+44.379"/>
+			</competitor>
+			<competitor country_code="DEU" gender="male" id="sr:competitor:7610" name="Vettel, Sebastian" nationality="Germany">
+				<result fastest_lap_time="1:40.128" grid="4" laps="55" pitstop_count="2" points="10" position="5" status="Finished" time="+1:04.357"/>
+			</competitor>
+			<competitor country_code="THA" gender="male" id="sr:competitor:522994" name="Albon, Alexander" nationality="Thailand">
+				<result fastest_lap_time="1:42.219" grid="5" laps="55" pitstop_count="1" points="8" position="6" status="Finished" time="+1:09.205"/>
+			</competitor>
+			<competitor country_code="MEX" gender="male" id="sr:competitor:46337" name="Perez, Sergio" nationality="Mexico">
+				<result fastest_lap_time="1:42.639" grid="10" laps="54" pitstop_count="1" points="6" position="7" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:495898" name="Norris, Lando" nationality="Great Britain">
+				<result fastest_lap_time="1:43.026" grid="6" laps="54" pitstop_count="1" points="4" position="8" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="RUS" gender="male" id="sr:competitor:131762" name="Kvyat, Daniil" nationality="Russia">
+				<result fastest_lap_time="1:42.222" grid="13" laps="54" pitstop_count="1" points="2" position="9" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="ESP" gender="male" id="sr:competitor:189029" name="Sainz Jr, Carlos" nationality="Spain">
+				<result fastest_lap_time="1:41.294" grid="8" laps="54" pitstop_count="2" points="1" position="10" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="AUS" gender="male" id="sr:competitor:41603" name="Ricciardo, Daniel" nationality="Australia">
+				<result fastest_lap_time="1:41.190" grid="7" laps="54" pitstop_count="2" position="11" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="DEU" gender="male" id="sr:competitor:39412" name="Hulkenberg, Nico" nationality="Germany">
+				<result fastest_lap_time="1:43.274" grid="9" laps="54" pitstop_count="1" position="12" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="FIN" gender="male" id="sr:competitor:4538" name="Raikkonen, Kimi" nationality="Finland">
+				<result fastest_lap_time="1:43.142" grid="17" laps="54" pitstop_count="1" position="13" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="DNK" gender="male" id="sr:competitor:135592" name="Magnussen, Kevin" nationality="Denmark">
+				<result fastest_lap_time="1:43.790" grid="14" laps="54" pitstop_count="1" position="14" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="FRA" gender="male" id="sr:competitor:37294" name="Grosjean, Romain" nationality="France">
+				<result fastest_lap_time="1:43.666" grid="15" laps="54" pitstop_count="1" position="15" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="ITA" gender="male" id="sr:competitor:222584" name="Giovinazzi, Antonio" nationality="Italy">
+				<result fastest_lap_time="1:43.256" grid="16" laps="54" pitstop_count="2" position="16" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:391432" name="Russell, George" nationality="Great Britain">
+				<result fastest_lap_time="1:43.074" grid="18" laps="54" pitstop_count="1" position="17" status="Finished" time="1l"/>
+			</competitor>
+			<competitor country_code="FRA" gender="male" id="sr:competitor:381362" name="Gasly, Pierre" nationality="France">
+				<result fastest_lap_time="1:42.414" grid="11" laps="53" pitstop_count="1" position="18" status="Finished" time="2l"/>
+			</competitor>
+			<competitor country_code="POL" gender="male" id="sr:competitor:6152" name="Kubica, Robert" nationality="Poland">
+				<result fastest_lap_time="1:44.500" grid="19" laps="53" pitstop_count="1" position="19" status="Finished" time="2l"/>
+			</competitor>
+			<competitor country_code="CAN" gender="male" id="sr:competitor:302866" name="Stroll, Lance" nationality="Canada">
+				<result fastest_lap_time="1:43.326" grid="12" laps="45" pitstop_count="3" position="20" status="Out"/>
+			</competitor>
+		</competitors>
+		<teams>
+			<team country_code="GBR" gender="male" id="sr:competitor:4511" name="Williams" nationality="Great Britain"/>
+			<team country_code="ITA" gender="male" id="sr:competitor:4510" name="Ferrari" nationality="Italy"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:4514" name="Mclaren" nationality="Great Britain"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:4512" name="Renault" nationality="Great Britain"/>
+			<team country_code="CHE" gender="male" id="sr:competitor:4515" name="Alfa Romeo Racing" nationality="Switzerland"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:4978" name="Red Bull Racing" nationality="Great Britain"/>
+			<team country_code="ITA" gender="male" id="sr:competitor:5771" name="Alphatauri" nationality="Italy"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:41127" name="Mercedes" nationality="Great Britain"/>
+			<team country_code="USA" gender="male" id="sr:competitor:242902" name="Haas" nationality="USA"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:496090" name="Racing Point" nationality="Great Britain"/>
+		</teams>
+	</stage>
+</summary>

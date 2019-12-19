@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<summary generated_at="2019-12-19T02:47:33+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/summary.xsd">
+	<stage description="Practice 1" id="sr:stage:432277" scheduled="2019-11-29T09:00:00+00:00" scheduled_end="2019-11-29T10:30:00+00:00" single_event="false" status="Finished" type="practice">
+		<parents>
+			<stage description="Abu Dhabi Grand Prix 2019" id="sr:stage:432275" scheduled="2019-11-29T09:00:00+00:00" scheduled_end="2019-12-01T15:10:00+00:00" single_event="false" status="Finished" type="event">
+				<venue city="Abu Dhabi" coordinates="24.469885,54.605484" country="United Arab Emirates" country_code="ARE" curves_left="12" curves_right="9" debut="2009" id="sr:venue:1525" laps="55" length="5554" name="Yas Marina Circuit" url_official="https://www.yasmarinacircuit.com/en"/>
+				<parents>
+					<stage description="Formula 1 2019" id="sr:stage:426678" scheduled="2019-03-15T01:00:00+00:00" scheduled_end="2019-12-01T18:10:00+00:00" single_event="false" type="season">
+						<parents>
+							<stage description="Formula 1" id="sr:stage:7668" single_event="false" type="sport"/>
+						</parents>
+					</stage>
+				</parents>
+			</stage>
+		</parents>
+		<competitors>
+			<competitor country_code="FIN" gender="male" id="sr:competitor:41600" name="Bottas, Valtteri" nationality="Finland">
+				<result fastest_lap_time="1:36.957" laps="23" position="1" status="Finished"/>
+			</competitor>
+			<competitor country_code="NLD" gender="male" id="sr:competitor:178318" name="Verstappen, Max" nationality="Netherlands">
+				<result fastest_lap_time="+0.535" laps="22" position="2" status="Finished"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:7135" name="Hamilton, Lewis" nationality="Great Britain">
+				<result fastest_lap_time="+0.634" laps="20" position="3" status="Finished"/>
+			</competitor>
+			<competitor country_code="THA" gender="male" id="sr:competitor:522994" name="Albon, Alexander" nationality="Thailand">
+				<result fastest_lap_time="+1.127" laps="23" position="4" status="Finished"/>
+			</competitor>
+			<competitor country_code="DEU" gender="male" id="sr:competitor:7610" name="Vettel, Sebastian" nationality="Germany">
+				<result fastest_lap_time="+1.949" laps="19" position="5" status="Finished"/>
+			</competitor>
+			<competitor country_code="FRA" gender="male" id="sr:competitor:37294" name="Grosjean, Romain" nationality="France">
+				<result fastest_lap_time="+2.189" laps="18" position="6" status="Finished"/>
+			</competitor>
+			<competitor country_code="MCO" gender="male" id="sr:competitor:269471" name="Leclerc, Charles" nationality="Monaco">
+				<result fastest_lap_time="+2.292" laps="18" position="7" status="Finished"/>
+			</competitor>
+			<competitor country_code="DNK" gender="male" id="sr:competitor:135592" name="Magnussen, Kevin" nationality="Denmark">
+				<result fastest_lap_time="+2.393" laps="19" position="8" status="Finished"/>
+			</competitor>
+			<competitor country_code="ITA" gender="male" id="sr:competitor:222584" name="Giovinazzi, Antonio" nationality="Italy">
+				<result fastest_lap_time="+2.466" laps="20" position="9" status="Finished"/>
+			</competitor>
+			<competitor country_code="DEU" gender="male" id="sr:competitor:39412" name="Hulkenberg, Nico" nationality="Germany">
+				<result fastest_lap_time="+2.548" laps="22" position="10" status="Finished"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:495898" name="Norris, Lando" nationality="Great Britain">
+				<result fastest_lap_time="+2.671" laps="18" position="11" status="Finished"/>
+			</competitor>
+			<competitor country_code="CAN" gender="male" id="sr:competitor:302866" name="Stroll, Lance" nationality="Canada">
+				<result fastest_lap_time="+2.907" laps="23" position="12" status="Finished"/>
+			</competitor>
+			<competitor country_code="FIN" gender="male" id="sr:competitor:4538" name="Raikkonen, Kimi" nationality="Finland">
+				<result fastest_lap_time="+2.931" laps="17" position="13" status="Finished"/>
+			</competitor>
+			<competitor country_code="MEX" gender="male" id="sr:competitor:46337" name="Perez, Sergio" nationality="Mexico">
+				<result fastest_lap_time="+2.944" laps="17" position="14" status="Finished"/>
+			</competitor>
+			<competitor country_code="RUS" gender="male" id="sr:competitor:131762" name="Kvyat, Daniil" nationality="Russia">
+				<result fastest_lap_time="+3.012" laps="20" position="15" status="Finished"/>
+			</competitor>
+			<competitor country_code="FRA" gender="male" id="sr:competitor:381362" name="Gasly, Pierre" nationality="France">
+				<result fastest_lap_time="+3.444" laps="17" position="16" status="Finished"/>
+			</competitor>
+			<competitor country_code="ESP" gender="male" id="sr:competitor:189029" name="Sainz Jr, Carlos" nationality="Spain">
+				<result fastest_lap_time="+3.730" laps="23" position="17" status="Finished"/>
+			</competitor>
+			<competitor country_code="POL" gender="male" id="sr:competitor:6152" name="Kubica, Robert" nationality="Poland">
+				<result fastest_lap_time="+3.835" laps="21" position="18" status="Finished"/>
+			</competitor>
+			<competitor country_code="AUS" gender="male" id="sr:competitor:41603" name="Ricciardo, Daniel" nationality="Australia">
+				<result fastest_lap_time="+3.893" laps="12" position="19" status="Finished"/>
+			</competitor>
+			<competitor country_code="GBR" gender="male" id="sr:competitor:391432" name="Russell, George" nationality="Great Britain">
+				<result fastest_lap_time="+4.405" laps="24" position="20" status="Finished"/>
+			</competitor>
+		</competitors>
+		<teams>
+			<team country_code="GBR" gender="male" id="sr:competitor:4511" name="Williams" nationality="Great Britain"/>
+			<team country_code="ITA" gender="male" id="sr:competitor:4510" name="Ferrari" nationality="Italy"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:4514" name="Mclaren" nationality="Great Britain"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:4512" name="Renault" nationality="Great Britain"/>
+			<team country_code="CHE" gender="male" id="sr:competitor:4515" name="Alfa Romeo Racing" nationality="Switzerland"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:4978" name="Red Bull Racing" nationality="Great Britain"/>
+			<team country_code="ITA" gender="male" id="sr:competitor:5771" name="Alphatauri" nationality="Italy"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:41127" name="Mercedes" nationality="Great Britain"/>
+			<team country_code="USA" gender="male" id="sr:competitor:242902" name="Haas" nationality="USA"/>
+			<team country_code="GBR" gender="male" id="sr:competitor:496090" name="Racing Point" nationality="Great Britain"/>
+		</teams>
+	</stage>
+</summary>
