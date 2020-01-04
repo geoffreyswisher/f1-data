@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<competitor_profile generated_at="2019-12-19T03:21:50+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/competitor_profile.xsd">
+<competitor_profile generated_at="2019-12-31T03:47:20+00:00" xmlns="http://schemas.sportradar.com/sportsapi/v1/formula1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/formula1 http://schemas.sportradar.com/bsa/formula1/v1/xml/endpoints/formula1/competitor_profile.xsd">
 	<competitor country_code="GBR" gender="male" id="sr:competitor:7135" name="Hamilton, Lewis" nationality="Great Britain"/>
 	<teams>
 		<team country_code="GBR" gender="male" id="sr:competitor:41127" name="Mercedes" nationality="Great Britain"/>
