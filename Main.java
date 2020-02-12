@@ -1,32 +1,36 @@
 import javafx.scene.Scene;
-import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.control.TextField;
-import javafx.scene.layout.StackPane;
-import javafx.scene.layout.TilePane;
+import javafx.scene.chart.PieChart;
+import javafx.scene.control.*;
+import javafx.scene.layout.*;
 import javafx.stage.Stage;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.application.Application;
-import javafx.collections.ObservableList;
+import javafx.geometry.*;
+import javafx.application.*;
+import javafx.collections.*;
+
 
 public class Main extends Application {
-
-    //Button button;
-    TextField textfield;
 
     public static void main (String[] args) {
         launch(args);
     }
 
-
     @Override
     public void start(Stage primaryStage) throws Exception {
         
-        textfield = new TextField("Intial text");
+        TextField textfield = new TextField("Intial text");
 
-        StackPane root = new StackPane();
-        TilePane tile = new TilePane();
+        VBox root = new VBox();
+        root.setSpacing(100);
+        root.setPadding(new Insets(20,10,20,10));
+
+        HBox wrapper = new HBox();
+        wrapper.setAlignment(Pos.CENTER);
+
+        HBox hbox = new HBox();
+        hbox.setSpacing(100);
+        hbox.setAlignment(Pos.CENTER);
 
         Label label = new Label("n/a");
 
@@ -38,13 +42,25 @@ public class Main extends Application {
 
         textfield.setOnAction(event);
 
-        tile.getChildren().add(label);
-        tile.getChildren().add(textfield);
+        ObservableList<PieChart.Data> pieChartData = 
+            FXCollections.observableArrayList(
+                new PieChart.Data("name", 5),
+                new PieChart.Data("namee", 6)
+            );
+        
+        final PieChart chart = new PieChart(pieChartData);
 
-        root.getChildren().add(tile);
+        hbox.getChildren().add(label);
+        hbox.getChildren().add(textfield);
 
-        Scene scene = new Scene(root, 500, 500);
-        primaryStage.setTitle("Title");
+        wrapper.getChildren().add(chart);
+
+        root.getChildren().add(hbox);
+        root.getChildren().add(wrapper);
+
+        Scene scene = new Scene(root, 750, 1000);
+
+        primaryStage.setTitle("F1 Data Analysis");
         primaryStage.setScene(scene);
         primaryStage.show();
 
